@@ -1,4 +1,15 @@
-<img style="width: 10px ; height: 10px" src="img/download.jpeg" >
+<style type="text/css">
+	.img img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+</style>
+<img class="img" src="img/download.jpeg" >
+
+
 # Arara Makerspace UFSC 
 
 ## Universidade Federal de Santa Catarina
