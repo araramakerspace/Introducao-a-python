@@ -24,3 +24,12 @@ O Espaço Maker, ou Makerspace, e um local onde pessoas se encontram para realiz
 Este curso é uma introdução a linguagem de programação Python, com o objetivo de ensinar o básico de python para começarmos a fazer análise exploratória de dados.
 
 
+
+## Estrutura do curso
+
+### Módulo I
+	* Aula do curso Introdução ao Python
+
+### Códigos
+	* Códigos desenvolvidos em aula
+
