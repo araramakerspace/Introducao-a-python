@@ -1,7 +1,4 @@
-<img class="img" style="max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;" src="img/download.jpeg" >
+<img class="img" src="img/download.jpeg" width="50" height="50" >
 
 
 # Arara Makerspace UFSC 
