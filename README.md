@@ -1,13 +1,4 @@
-<style type="text/css">
-	.img img {
-    max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;
-}
-
-</style>
-<img class="img" src="img/download.jpeg" >
+<img class="img" src="img/download.jpeg"  width="200" height="200">
 
 
 # Arara Makerspace UFSC 
