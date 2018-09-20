@@ -1,4 +1,4 @@
-<img src="img/download.jpeg" />
+<img style="width: 10px ; height: 10px" src="img/download.jpeg" >
 # Arara Makerspace UFSC 
 
 ## Universidade Federal de Santa Catarina
