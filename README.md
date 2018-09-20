@@ -1,4 +1,4 @@
-<img class="img" src="img/download.jpeg" width="50" height="50" >
+<img class="img" src="img/download.jpeg" width="200" height="200" >
 
 
 
