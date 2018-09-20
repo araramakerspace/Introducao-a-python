@@ -1,8 +1,13 @@
 # Arara Makerspace UFSC 
 
 ## Universidade Federal de Santa Catarina
-## Prof: Matheus Francisco B. Machado
 
+#### Professores do Makerspace
+<p><h5>Matheus Francisco B. Machado</h5></p>
+<p><h5>Gabriel Velho</h5></p>
+<p><h5>Gabriel Medeiros Risadinha</h5></p>
+<p><h5>Luan Rodrigues (yn)</h5></p>
+<p><h5>Gabriel Domene</h5></p>
 
 ## O que é o Arara Makerspace?
 
