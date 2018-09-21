@@ -34,6 +34,7 @@ Neste curso vamos mostrar porque devemos aprender python?
 Por ser uma linguagem de programação simples, quem começa a programar em Python rapidamente estará desenvolvendo programas complexos e robustos!
 	
 Aprendendo o básico do Python, vc pode desenvolver:
+
 	* Sistemas web Django, Flask, Pyramid...
 	* Aplicações multiplataforma com Kivy 
 	* Jogos com pygame
@@ -41,9 +42,11 @@ Aprendendo o básico do Python, vc pode desenvolver:
 
 
 * Versatilidade 
+
 Python possui + de 130 mil lib https://pypi.python.org/pypi. 
 
 * Multiplataforma
+
 Não é compilado e sim <b>INTERPRETADA</b>
 
 Uma linguagem interpretada é aquela na qual seu código-fonte é lido por um interpretador e convertido em código executável, o qual será executado por uma máquina virtual. Em Python, esse processo é dividido em 4 etapas:
