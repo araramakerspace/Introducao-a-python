@@ -36,11 +36,10 @@ Neste curso vamos mostrar porque devemos aprender python?
 	
 
 Aprendendo o básico do Python, vc pode desenvolver:
-
-	* Sistemas web Django, Flask, Pyramid...
-	* Aplicações multiplataforma com Kivy 
-	* Jogos com pygame
-	* Interfaces gráficas com Tkinter ou PyQT
+>  Sistemas web Django, Flask, Pyramid...
+>  Aplicações multiplataforma com Kivy 
+>  Jogos com pygame
+>  Interfaces gráficas com Tkinter ou PyQT
 
 
 * Versatilidade 
@@ -49,27 +48,23 @@ Aprendendo o básico do Python, vc pode desenvolver:
 
 * Multiplataforma
 
-Não é compilado e sim <b>INTERPRETADA</b>
+> Não é compilado e sim <b>INTERPRETADA</b>
 
-Uma linguagem interpretada é aquela na qual seu código-fonte é lido por um interpretador e convertido em código executável, o qual será executado por uma máquina virtual. Em Python, esse processo é dividido em 4 etapas:
+> Uma linguagem interpretada é aquela na qual seu código-fonte é lido por um interpretador e convertido em código executável, o qual será executado por uma máquina virtual. Em Python, esse processo é dividido em 4 etapas:
 
-Análise Léxica: Quebra do código-fonte em tokens (strings com sentido identificado).
-Parsing: Processo de pegar esses tokens e gerar estruturas que mostram o relacionamento entre cada token (no caso do Python, essa estrutura é uma Abstract Syntax Tree - AST).
-Compilação: Transformação de uma AST em um ou mais Code Objects (“pedaços” de código executável). Interpretação: De posse dos Code Objects, o Interpretador então executa os códigos ali representados.
+> Análise Léxica: Quebra do código-fonte em tokens (strings com sentido identificado).
+> Parsing: Processo de pegar esses tokens e gerar estruturas que mostram o relacionamento entre cada token (no caso do Python, essa estrutura é uma Abstract Syntax Tree - AST).
+> Compilação: Transformação de uma AST em um ou mais Code Objects (“pedaços” de código executável). Interpretação: De posse dos Code Objects, o Interpretador então executa os códigos ali representados.
 
-Portanto, Python (que é uma linguagem interpretada) roda em diferentes plataformas, pois basta ter um interpretador para processar o código-fonte em qualquer sistema ou processador. Com Kivy, por exemplo, podemos empacotar nossa aplicação para Windows, Mac, Linux, iOS e Android!
+> Portanto, Python (que é uma linguagem interpretada) roda em diferentes plataformas, pois basta ter um interpretador para processar o código-fonte em qualquer sistema ou processador. Com Kivy, por exemplo, podemos empacotar nossa aplicação para Windows, Mac, Linux, iOS e Android!
 
 
 * Comunidade <3
 
-Geralmente, ao iniciar o aprendizado de uma nova linguagem, nos deparamos com muitos obstáculos.
-
+> Geralmente, ao iniciar o aprendizado de uma nova linguagem, nos deparamos com muitos obstáculos. 
 As vezes não entendemos a sintaxe.
-
 As vezes não entendemos a mensagem de erro.
-
 As vezes não conseguimos nem achar o erro.
-
 Quando isso acontece, temos algumas alternativas:
 
 Primeiro: fechar a IDE e ir jogar um Dota, um LoL, um WoW (mas você é mais forte que essa tentação! :wink: )
