@@ -78,13 +78,13 @@ No terceiro ponto, duas coisas podem acontecer:
 
 * Mercado
 
-Todas empregam Python em algum lugar de sua estrutura tecnológica!
-
+> Todas empregam Python em algum lugar de sua estrutura tecnológica!
+ 
 <a href="https://labs.spotify.com/2013/03/20/how-we-use-python-at-spotify/">Nesse artigo</a>, o pessoal do Spotify Labs explica onde Python está presente: serviços de backend e análise de dados!
 
-No site code.nasa.gov <a href="https://code.nasa.gov/">clique aqui</a>, você pode procurar por “python” e ver a quantidade de projetos que utilizam Python!
+> No site code.nasa.gov <a href="https://code.nasa.gov/">clique aqui</a>, você pode procurar por “python” e ver a quantidade de projetos que utilizam Python!
 
-Essa pesquisa <a href="https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2017">clique aqui</a> mostra a popularidade das linguagens através da análise de dados do Github, API de pesquisas do Google, Google Trends, Twitter, Github, StackOverflow, Reddit entre outras fontes. Ela mostra que Python é a “linguagem mais popular” dentro de um universo de 48 linguagens (como Java, C, Objective-C, C#, etc), tendo atingido o topo em 2017!
+> Essa pesquisa <a href="https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2017">clique aqui</a> mostra a popularidade das linguagens através da análise de dados do Github, API de pesquisas do Google, Google Trends, Twitter, Github, StackOverflow, Reddit entre outras fontes. Ela mostra que Python é a “linguagem mais popular” dentro de um universo de 48 linguagens (como Java, C, Objective-C, C#, etc), tendo atingido o topo em 2017!
 
 ## Estrutura do curso
 
