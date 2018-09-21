@@ -62,18 +62,19 @@ Aprendendo o básico do Python, vc pode desenvolver:
 * Comunidade <3
 
 > Geralmente, ao iniciar o aprendizado de uma nova linguagem, nos deparamos com muitos obstáculos. 
-As vezes não entendemos a sintaxe.
-As vezes não entendemos a mensagem de erro.
-As vezes não conseguimos nem achar o erro.
-Quando isso acontece, temos algumas alternativas:
 
-Primeiro: fechar a IDE e ir jogar um Dota, um LoL, um WoW (mas você é mais forte que essa tentação! :wink: )
-Segundo: procurar na documentação/referência e tentar encontrar a solução do impasse por conta própria.
-Terceiro: procurar uma comunidade e torcer para que uma alma companheira lhe ajude.
+> As vezes não entendemos a sintaxe.
+> As vezes não entendemos a mensagem de erro.
+> As vezes não conseguimos nem achar o erro.
+> Quando isso acontece, temos algumas alternativas:
+
+> Primeiro: fechar a IDE e ir jogar um Dota, um LoL, um WoW (mas você é mais forte que essa tentação! :wink: )
+> Segundo: procurar na documentação/referência e tentar encontrar a solução do impasse por conta própria.
+> Terceiro: procurar uma comunidade e torcer para que uma alma companheira lhe ajude.
 No terceiro ponto, duas coisas podem acontecer:
 
-Sua dúvida ser acolhida e respondida; ou
-Sua dúvida cair no limbo das questões não resolvidas do StackOverflow
+> Sua dúvida ser acolhida e respondida; ou
+> Sua dúvida cair no limbo das questões não resolvidas do StackOverflow
 
 * Mercado
 
