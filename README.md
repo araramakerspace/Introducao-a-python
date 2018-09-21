@@ -111,6 +111,9 @@ No terceiro ponto, duas coisas podem acontecer:
 
 
 https://pythonacademy.com.br/
+
 https://pythonacademy.com.br/blog/porque-aprender-python-5-motivos-para-aprender-agora
+
 http://blog.4linux.com.br/por-que-aprender-python/
+
 https://www.hostgator.com.br/blog/10-motivos-para-voce-aprender-python/
