@@ -24,7 +24,7 @@ O Espaço Maker, ou Makerspace, e um local onde pessoas se encontram para realiz
 
 Este curso é uma introdução a linguagem de programação Python, com o objetivo de ensinar o básico de python para começarmos a fazer análise exploratória de dados.
 
-## Descrição
+## Por que aprender Python
 
 Neste curso vamos mostrar porque devemos aprender python?
 * Simplicidade  para aprender
@@ -94,13 +94,20 @@ No terceiro ponto, duas coisas podem acontecer:
 
 > Essa pesquisa <a href="https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2017">clique aqui</a> mostra a popularidade das linguagens através da análise de dados do Github, API de pesquisas do Google, Google Trends, Twitter, Github, StackOverflow, Reddit entre outras fontes. Ela mostra que Python é a “linguagem mais popular” dentro de um universo de 48 linguagens (como Java, C, Objective-C, C#, etc), tendo atingido o topo em 2017!
 
+
+##  Objetivo 
+
+Entender sobre python e utilizar comandos básicos do python
+
 ## Estrutura do curso
 
 ### Módulo I
-	* Aula do curso Introdução ao Python
+
+> Aula do curso Introdução ao Python
 
 ### Códigos
-	* Códigos desenvolvidos em aula
+
+> Códigos desenvolvidos em aula
 
 
 
