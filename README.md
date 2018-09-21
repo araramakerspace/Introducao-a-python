@@ -69,18 +69,21 @@ Aprendendo o básico do Python, vc pode desenvolver:
 > Quando isso acontece, temos algumas alternativas:
 
 > Primeiro: fechar a IDE e ir jogar um Dota, um LoL, um WoW (mas você é mais forte que essa tentação! :wink: )
+
 > Segundo: procurar na documentação/referência e tentar encontrar a solução do impasse por conta própria.
+
 > Terceiro: procurar uma comunidade e torcer para que uma alma companheira lhe ajude.
 No terceiro ponto, duas coisas podem acontecer:
 
 > Sua dúvida ser acolhida e respondida; ou
+
 > Sua dúvida cair no limbo das questões não resolvidas do StackOverflow
 
 * Mercado
 
 > Todas empregam Python em algum lugar de sua estrutura tecnológica!
  
-<a href="https://labs.spotify.com/2013/03/20/how-we-use-python-at-spotify/">Nesse artigo</a>, o pessoal do Spotify Labs explica onde Python está presente: serviços de backend e análise de dados!
+> <a href="https://labs.spotify.com/2013/03/20/how-we-use-python-at-spotify/">Nesse artigo</a>, o pessoal do Spotify Labs explica onde Python está presente: serviços de backend e análise de dados!
 
 > No site code.nasa.gov <a href="https://code.nasa.gov/">clique aqui</a>, você pode procurar por “python” e ver a quantidade de projetos que utilizam Python!
 
