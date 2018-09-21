@@ -31,8 +31,10 @@ Neste curso vamos mostrar porque devemos aprender python?
 * Pouco código para tarefas HARD
 
 * Curva de aprendizagem 
-Por ser uma linguagem de programação simples, quem começa a programar em Python rapidamente estará desenvolvendo programas complexos e robustos!
+
+> Por ser uma linguagem de programação simples, quem começa a programar em Python rapidamente estará desenvolvendo programas complexos e robustos!
 	
+
 Aprendendo o básico do Python, vc pode desenvolver:
 
 	* Sistemas web Django, Flask, Pyramid...
@@ -43,7 +45,7 @@ Aprendendo o básico do Python, vc pode desenvolver:
 
 * Versatilidade 
 
-Python possui + de 130 mil lib https://pypi.python.org/pypi. 
+> Python possui + de 130 mil lib https://pypi.python.org/pypi. 
 
 * Multiplataforma
 
