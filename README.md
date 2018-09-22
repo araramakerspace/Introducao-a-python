@@ -116,6 +116,8 @@ Entender sobre python e utilizar comandos básicos do python
 
 ## Referências
 
+https://revealjs.com/?parallaxBackgroundImage=https%3A%2F%2Fs3.amazonaws.com%2Fhakim-static%2Freveal-js%2Freveal-parallax-1.jpg&parallaxBackgroundSize=2100px%20900px#/1
+
 
 https://pythonacademy.com.br/
 
